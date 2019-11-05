@@ -1,0 +1,19 @@
+{
+  "name": "library0",
+  "version": "1.0.0",
+  "description": "demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "alert-node": "^2.0.1",
+    "chalk": "^2.4.1",
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "mongoose": "^5.7.5",
+    "nodemon": "^1.18.4"
+  }
+}
