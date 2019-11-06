@@ -1,12 +1,12 @@
 {
-  "name": "library0",
+  "name": "libraryapp",
   "version": "1.0.0",
   "description": "demo",
   "main": "index.js",
   "scripts": {
     "start": "node app.js"
   },
-  "author": "akhilesh",
+  "author": "Akhilesh T",
   "license": "ISC",
   "dependencies": {
     "alert-node": "^2.0.1",
