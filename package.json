@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node app.js"
   },
-  "author": "",
+  "author": "akhilesh",
   "license": "ISC",
   "dependencies": {
     "alert-node": "^2.0.1",
